@@ -116,4 +116,4 @@ kubectl port-forward service/<service_name> 5000:5000
 ```
 ## Demo
 
-Insert gif or link to demo
+Check out the [Images](https://drive.google.com/drive/folders/1Q7VfqCYpC5jrz9W4mT11et3vn1IndDdD) of the project
